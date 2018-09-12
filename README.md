@@ -10,3 +10,5 @@ Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intenti
 
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries and is mostly used to build small application with simpler requirements.
 
+# WHAT THE SHELL SCRIPT DOES FOR YOU.
+
