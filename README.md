@@ -91,3 +91,5 @@ sudo apt-get install python3.6
 
 Link:-> ```https://github.com/zecollokaris/Flask-Shell-Script```
 
+4. From there you can access Flask-shell-script.
+
