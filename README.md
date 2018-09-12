@@ -39,3 +39,7 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 **CREATED FILES**
 
+The script also **helps in creating files needed in flask** and this making it easy for you to code as you no longer hav to create them on your own.
+
+It simply creates files and adds the preset standard code thats will not change in any given file structure.
+
