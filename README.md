@@ -19,3 +19,6 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 1. Initializes **Empty Git Repository**
 
 2. Installs **flask**
+
+3. Installs **werkzeug**
+
