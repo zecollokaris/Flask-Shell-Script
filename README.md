@@ -69,3 +69,4 @@ It simply creates files and adds the preset standard code thats will not change 
 python3.6 -V
 ```
 
+**Installing Python3.6**
