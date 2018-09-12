@@ -93,3 +93,11 @@ Link:-> ```https://github.com/zecollokaris/Flask-Shell-Script```
 
 4. From there you can access Flask-shell-script.
 
+5. **Clone** the project.
+
+6. **Once you done with cloning** and project is on your device.
+
+7. **get into project folder** (cd into project). 
+
+
+
