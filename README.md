@@ -101,3 +101,20 @@ Link:-> ```https://github.com/zecollokaris/Flask-Shell-Script```
 
 
 
+# **HOW TO USE.**
+
+**To work With this Django-shell-script**
+
+1. **Make sure your inside the folder containing script.**
+
+2. Create **Flask folder structure**
+
+    ```
+    source newFlask.sh .
+    ```
+
+    ```
+    **Note there is a fullstop (.) at the end** ( source newFlask.sh . )
+    ```
+
+4. You Flask is ready **HAPPY CODING :-)**
