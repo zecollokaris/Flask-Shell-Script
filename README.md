@@ -24,3 +24,5 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 4. Installs **click**
 
+5. Installs **Jinja**
+
