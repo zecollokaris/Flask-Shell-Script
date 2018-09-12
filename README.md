@@ -48,3 +48,14 @@ It simply creates files and adds the preset standard code thats will not change 
 # Prerequisites
 
 * You need to have nano text editor installed. you can find out whether you have it installed by typing nano --version in your terminal. For most linux distributions, it is installed by default. 
+
+
+**Installing Nano Text Editor.**
+
+-However, if you don't have it installed, you can quicky do that by typing:
+
+
+```
+ sudo apt-get install nano
+```
+
