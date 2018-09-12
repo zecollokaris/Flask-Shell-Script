@@ -87,3 +87,7 @@ sudo apt-get install python3.6
 
 2. You will also need a Webpage URL to load in URL's:
 
+3. To get to this CLI fist you need to get to the Flask-Shell-Script repository.
+
+Link:-> ```https://github.com/zecollokaris/Flask-Shell-Script```
+
