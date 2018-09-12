@@ -32,3 +32,5 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 8. Installs **gunicorn**
 
+9. Installs **flask-wtf**
+
