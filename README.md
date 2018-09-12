@@ -34,3 +34,5 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 9. Installs **flask-wtf**
 
+10. Installs **flask-sqalchemy**
+
