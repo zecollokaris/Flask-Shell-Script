@@ -28,3 +28,4 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 6. Installs **flask script**
 
+7. Installs **flask-bootstrap**
