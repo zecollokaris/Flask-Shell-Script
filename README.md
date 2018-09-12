@@ -83,3 +83,4 @@ sudo apt-get install python3.6
 
 **To work With this cli {follow the below instructions for set up.}**
 
+1. You will need Internet connection.
