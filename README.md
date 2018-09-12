@@ -43,3 +43,7 @@ The script also **helps in creating files needed in flask** and this making it e
 
 It simply creates files and adds the preset standard code thats will not change in any given file structure.
 
+**You are now ready to code.** 
+
+# Prerequisites
+
