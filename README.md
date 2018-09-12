@@ -59,3 +59,13 @@ It simply creates files and adds the preset standard code thats will not change 
  sudo apt-get install nano
 ```
 
+* You need to have (python3.6) installed in your machine.
+
+-To check if you already have python3.6 before installing type:
+
+
+
+```
+python3.6 -V
+```
+
